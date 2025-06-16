@@ -1,1 +1,9 @@
-# Java-DSA-practise
+## 🗂 Folder Structure
+
+- Arrays/
+- Searching/
+- Strings/
+- LoopsAndConditionals/
+- Functions/
+- InputOutput/
+- Others/
